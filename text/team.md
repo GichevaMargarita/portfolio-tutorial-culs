@@ -11,4 +11,5 @@ Greetings! Name's Artemiy. Born in Russia, i have been living in Czechia for aro
 At the moment I'm working as a software tester and studying Informatics at CULS as well.
 
 **Andrey:**\
+Let me introduce myself. My name is Andrey and I was born in Russia. I am living in Prague now, studing at CULS and working as a Cash management analyst. I like mortal arts, hiking and cooking. 
 
